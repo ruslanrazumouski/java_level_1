@@ -1,0 +1,84 @@
+[1mdiff --git a/home_work_1/.idea/workspace.xml b/home_work_1/.idea/workspace.xml[m
+[1mindex 71a6203..76f9e5b 100644[m
+[1m--- a/home_work_1/.idea/workspace.xml[m
+[1m+++ b/home_work_1/.idea/workspace.xml[m
+[36m@@ -1,14 +1,39 @@[m
+ <?xml version="1.0" encoding="UTF-8"?>[m
+ <project version="4">[m
+   <component name="ChangeListManager">[m
+[31m-    <list default="true" id="731921e8-e8a7-487c-b0c2-285a423b6c7f" name="Default Changelist" comment="" />[m
+[32m+[m[32m    <list default="true" id="731921e8-e8a7-487c-b0c2-285a423b6c7f" name="Default Changelist" comment="">[m
+[32m+[m[32m      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />[m
+[32m+[m[32m      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />[m
+[32m+[m[32m    </list>[m
+     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />[m
+     <option name="SHOW_DIALOG" value="false" />[m
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />[m
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />[m
+     <option name="LAST_RESOLUTION" value="IGNORE" />[m
+   </component>[m
+[32m+[m[32m  <component name="FavoritesManager">[m
+[32m+[m[32m    <favorites_list name="home_work_1" />[m
+[32m+[m[32m  </component>[m
+[32m+[m[32m  <component name="FileTemplateManagerImpl">[m
+[32m+[m[32m    <option name="RECENT_TEMPLATES">[m
+[32m+[m[32m      <list>[m
+[32m+[m[32m        <option value="Class" />[m
+[32m+[m[32m      </list>[m
+[32m+[m[32m    </option>[m
+[32m+[m[32m  </component>[m
+[32m+[m[32m  <component name="Git.Settings">[m
+[32m+[m[32m    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />[m
+[32m+[m[32m  </component>[m
+   <component name="ProjectId" id="1UYmWStw2jBUEYuAC9LT9mHSCsO" />[m
+[32m+[m[32m  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />[m
+[32m+[m[32m  <component name="PropertiesComponent">[m
+[32m+[m[32m    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />[m
+[32m+[m[32m    <property name="full.screen.before.presentation.mode" value="false" />[m
+[32m+[m[32m    <property name="project.structure.last.edited" value="Project" />[m
+[32m+[m[32m    <property name="project.structure.proportion" value="0.0" />[m
+[32m+[m[32m    <property name="project.structure.side.proportion" value="0.0" />[m
+[32m+[m[32m    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />[m
+[32m+[m[32m  </component>[m
+   <component name="RunDashboard">[m
+     <option name="ruleStates">[m
+       <list>[m
+[36m@@ -21,7 +46,15 @@[m
+       </list>[m
+     </option>[m
+   </component>[m
+[31m-  <component name="RunManager">[m
+[32m+[m[32m  <component name="RunManager" selected="Application.Main (1)">[m
+[32m+[m[32m    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">[m
+[32m+[m[32m      <option name="MAIN_CLASS_NAME" value="java_2_home_work.Main" />[m
+[32m+[m[32m      <module name="home_work_1" />[m
+[32m+[m[32m      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />[m
+[32m+[m[32m      <method v="2">[m
+[32m+[m[32m        <option name="Make" enabled="true" />[m
+[32m+[m[32m      </method>[m
+[32m+[m[32m    </configuration>[m
+     <configuration name="Main" type="Application" factoryName="Application" temporary="true">[m
+       <option name="MAIN_CLASS_NAME" value="java_1_home_work.Main" />[m
+       <module name="home_work_1" />[m
+[36m@@ -41,8 +74,20 @@[m
+     </configuration>[m
+     <recent_temporary>[m
+       <list>[m
+[32m+[m[32m        <item itemvalue="Application.Main (1)" />[m
+         <item itemvalue="Application.Main" />[m
+       </list>[m
+     </recent_temporary>[m
+   </component>[m
+[32m+[m[32m  <component name="Vcs.Log.Tabs.Properties">[m
+[32m+[m[32m    <option name="TAB_STATES">[m
+[32m+[m[32m      <map>[m
+[32m+[m[32m        <entry key="MAIN">[m
+[32m+[m[32m          <value>[m
+[32m+[m[32m            <State />[m
+[32m+[m[32m          </value>[m
+[32m+[m[32m        </entry>[m
+[32m+[m[32m      </map>[m
+[32m+[m[32m    </option>[m
+[32m+[m[32m  </component>[m
+ </project>[m
+\ No newline at end of file[m
