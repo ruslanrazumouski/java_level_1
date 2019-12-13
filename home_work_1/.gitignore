@@ -1,0 +1,10 @@
+.idea/*
+*.xml
+*.class
+*.war
+*.jar
+*.ear
+exit
+out
+
+
